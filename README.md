@@ -2,14 +2,14 @@
 
 🚀 **`Desenvolvedor em formação | ADS`**  
 
-Apaixonado por tecnologia, programação e pela ideia de transformar problemas em soluções através do código.
-Atualmente focado em Java, Spring Boot, APIs REST e MySQL, enquanto continuo evoluindo meus conhecimentos em Back-end e Front-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Gosto de transformar ideias e problemas reais em soluções através da programação.
+Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enquanto desenvolvo minhas habilidades em Back-end, Front-end e desenvolvimento de sistemas.
 
 🧑‍💻 Sempre aprendendo. Sempre construindo. Sempre evoluindo.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/dev-thiagopk">
@@ -36,8 +36,11 @@ Atualmente focado em Java, Spring Boot, APIs REST e MySQL, enquanto continuo evo
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### DevOps & Tools
