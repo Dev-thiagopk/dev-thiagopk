@@ -18,7 +18,7 @@ Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enqua
   <a href="https://instagram.com/_thigaass">
     <img src="https://img.shields.io/badge/Instagram-@__THIGAASS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-gabriel-9a2b83361/?isSelfProfile=true" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-gabriel-9a2b83361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-THIAGO GABRIEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
