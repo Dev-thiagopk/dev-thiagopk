@@ -1,12 +1,11 @@
 # 🧑‍💻 Thiago Gabriel
 
 🚀 **`Desenvolvedor em formação | ADS`**  
-🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Apaixonado por tecnologia, programação e pela ideia de transformar problemas em soluções através do código.
+Atualmente focado em Java, Spring Boot, APIs REST e MySQL, enquanto continuo evoluindo meus conhecimentos em Back-end e Front-end.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+🧑‍💻 Sempre aprendendo. Sempre construindo. Sempre evoluindo.
 
 ---
 
