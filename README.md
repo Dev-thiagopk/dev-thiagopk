@@ -16,7 +16,7 @@ Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enqua
     <img src="https://img.shields.io/badge/GitHub-DEVTHIAGOPK-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/_thigaass">
-    <img src="https://img.shields.io/badge/Instagram-@_THIGAASS_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@__THIGAASS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/thiago-gabriel-9a2b83361/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-THIAGO GABRIEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -42,6 +42,7 @@ Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enqua
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 
@@ -50,8 +51,6 @@ Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enqua
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
-
-## 🚀 Philosophy
 
 > _"Programar não se trata apenas de resolver problemas.  
 > Trata-se de construir soluções que escalam, perduram e geram valor real.."_
