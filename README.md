@@ -23,7 +23,7 @@ Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enqua
   </a>
 </p>
 
-
+![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 ## 🛠️ Tecnologias
 
@@ -32,6 +32,7 @@ Atualmente, venho me aprofundando em Java, Spring Boot, APIs REST e MySQL, enqua
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Backend
 
